@@ -7,7 +7,7 @@ description = """
 TFPC - Team Fortress Price Calculator
 """
 documentation = "https://gitlab.com/cuqerr/tfpc"
-readme = "README"
+readme = "README.md"
 homepage = "https://gitlab.com/cuqerr/tfpc"
 repository = "https://gitlab.com/cuqerr/tfpc"
 license = "GNU General Public License v3.0"
