@@ -3,6 +3,15 @@ name = "tfpc"
 version = "0.1.0"
 authors = ["cuqerr <cuqerr@gmail.com>"]
 edition = "2018"
+description = """
+TFPC - Team Fortress Price Calculator
+"""
+documentation = "https://gitlab.com/cuqerr/tfpc"
+readme = "https://gitlab.com/cuqerr/tfpc"
+homepage = "https://gitlab.com/cuqerr/tfpc"
+repository = "https://gitlab.com/cuqerr/tfpc"
+license = "GNU General Public License v3.0"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
