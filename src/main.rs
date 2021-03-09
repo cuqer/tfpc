@@ -59,7 +59,7 @@ fn main() {
             Ok(o) => {
               nums.push(o);
             }
-            Err(e) => match words[i] {
+            Err(_) => match words[i] {
               "ref" => types.push(Metal::Ref),
               "rec" => types.push(Metal::Rec),
               "scr" => types.push(Metal::Scr),
