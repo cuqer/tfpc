@@ -137,7 +137,7 @@ fn main() {
               println!("{} REF + {} REC + {} SCR", refined, reclaimed, scrap);
               println!("------------------------");
               println!(
-                "NET: {:.2} REF",
+                "NET: {:.2} REF\n",
                 (refined as f64 + (reclaimed as f64 * 0.33) + (scrap as f64 * 0.11))
               );
               break;
